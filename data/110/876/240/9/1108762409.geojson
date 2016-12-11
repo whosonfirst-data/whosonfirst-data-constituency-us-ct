@@ -9,7 +9,7 @@
     "geom:bbox":"-73.14327,41.60667,-72.89827,41.80921",
     "geom:latitude":41.739527,
     "geom:longitude":-73.029536,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":206210833.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State House District 76",
     "uscensus:sldlst":"076",
     "uscensus:statefp":"09",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688629
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481486148,
     "wof:geomhash":"12a5a7d79f2600017b171394e5510636",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688629
+        }
+    ],
     "wof:id":1108762409,
     "wof:lastmodified":1481486148,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688629,
     "wof:repo":"whosonfirst-data-constituency-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],

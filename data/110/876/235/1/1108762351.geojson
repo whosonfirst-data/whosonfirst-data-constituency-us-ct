@@ -9,7 +9,7 @@
     "geom:bbox":"-71.96302,41.835794,-71.794474,42.026221",
     "geom:latitude":41.937924,
     "geom:longitude":-71.868285,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":224967240.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State House District 51",
     "uscensus:sldlst":"051",
     "uscensus:statefp":"09",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688629
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481486143,
     "wof:geomhash":"173cdc9aa666b49159451fc11a429f58",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688629
+        }
+    ],
     "wof:id":1108762351,
     "wof:lastmodified":1481486143,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688629,
     "wof:repo":"whosonfirst-data-constituency-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],

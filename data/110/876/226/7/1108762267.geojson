@@ -9,7 +9,7 @@
     "geom:bbox":"-72.64887,41.709688,-72.4639,41.79096",
     "geom:latitude":41.74386,
     "geom:longitude":-72.527203,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":45017080.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State House District 13",
     "uscensus:sldlst":"013",
     "uscensus:statefp":"09",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688629
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481486135,
     "wof:geomhash":"c7d2a6f333f33c8cc4d4164b18195d58",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688629
+        }
+    ],
     "wof:id":1108762267,
     "wof:lastmodified":1481486135,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688629,
     "wof:repo":"whosonfirst-data-constituency-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],

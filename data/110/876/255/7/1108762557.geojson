@@ -9,7 +9,7 @@
     "geom:bbox":"-73.48575,41.083176,-73.4016,41.16739",
     "geom:latitude":41.13114,
     "geom:longitude":-73.446074,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":33496983.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State House District 142",
     "uscensus:sldlst":"142",
     "uscensus:statefp":"09",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688629
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481486161,
     "wof:geomhash":"3734da8dd90da2cbde7a55c20cb4ee36",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688629
+        }
+    ],
     "wof:id":1108762557,
     "wof:lastmodified":1481486161,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688629,
     "wof:repo":"whosonfirst-data-constituency-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -9,7 +9,7 @@
     "geom:bbox":"-73.51808,41.665802,-73.10915,42.050511",
     "geom:latitude":41.892497,
     "geom:longitude":-73.347308,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":881707801.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State House District 64",
     "uscensus:sldlst":"064",
     "uscensus:statefp":"09",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688629
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481486145,
     "wof:geomhash":"533c87514bdf3860345d63992126637a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688629
+        }
+    ],
     "wof:id":1108762381,
     "wof:lastmodified":1481486145,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688629,
     "wof:repo":"whosonfirst-data-constituency-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],

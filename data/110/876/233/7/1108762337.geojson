@@ -9,7 +9,7 @@
     "geom:bbox":"-71.96633,41.641219,-71.79125,41.849364",
     "geom:latitude":41.754527,
     "geom:longitude":-71.870886,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":160388015.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State House District 44",
     "uscensus:sldlst":"044",
     "uscensus:statefp":"09",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688629
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481486141,
     "wof:geomhash":"9fb8f9864821080b5a1009d01606f3b2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688629
+        }
+    ],
     "wof:id":1108762337,
     "wof:lastmodified":1481486141,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688629,
     "wof:repo":"whosonfirst-data-constituency-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],

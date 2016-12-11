@@ -9,7 +9,7 @@
     "geom:bbox":"-72.50923,41.93986,-72.20508,42.034376",
     "geom:latitude":41.989976,
     "geom:longitude":-72.358365,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":224017975.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State House District 52",
     "uscensus:sldlst":"052",
     "uscensus:statefp":"09",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688629
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481486143,
     "wof:geomhash":"5387ba44fc94254a94ba9304af8d5f68",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688629
+        }
+    ],
     "wof:id":1108762355,
     "wof:lastmodified":1481486143,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688629,
     "wof:repo":"whosonfirst-data-constituency-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
